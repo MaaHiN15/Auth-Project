@@ -1,1 +1,4 @@
 env/*
+admin/admin/__pycache__/*
+admin/app/__pycache__/*
+admin/app/migrations/*
